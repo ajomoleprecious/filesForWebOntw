@@ -9,7 +9,7 @@
         "pokemon_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
         "pokemon_type": "Ground",
         "pokemon_abilities": ["Cloud Nine"],
-        "pokemon_moves": {
+        "pokemon_move": {
             "move_id": 167,
             "move_name": "nisi",
             "move_accuracy": 59,
@@ -26,7 +26,7 @@
         "pokemon_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
         "pokemon_type": "Rock",
         "pokemon_abilities": ["Electric Surge", "Bulletproof", "Damp"],
-        "pokemon_moves": {
+        "pokemon_move": {
             "move_id": 192,
             "move_name": "pretium",
             "move_accuracy": 14,
@@ -43,7 +43,7 @@
         "pokemon_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
         "pokemon_type": "Water",
         "pokemon_abilities": ["Aerilate"],
-        "pokemon_moves": {
+        "pokemon_move": {
             "move_id": 52,
             "move_name": "ultrices",
             "move_accuracy": 82,
@@ -60,7 +60,7 @@
         "pokemon_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
         "pokemon_type": "Psychic",
         "pokemon_abilities": ["Cloud Nine", "Aerilate"],
-        "pokemon_moves": {
+        "pokemon_move": {
             "move_id": 18,
             "move_name": "platea",
             "move_accuracy": 7,
@@ -77,7 +77,7 @@
         "pokemon_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
         "pokemon_type": "Ice",
         "pokemon_abilities": ["Electric Surge", "Drizzle", "Defiant", "Cloud Nine", "Damp"],
-        "pokemon_moves": {
+        "pokemon_move": {
             "move_id": 31,
             "move_name": "accumsan",
             "move_accuracy": 34,
@@ -94,7 +94,7 @@
         "pokemon_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png",
         "pokemon_type": "Psychic",
         "pokemon_abilities": ["Big Pecks", "Big Pecks", "Damp", "Adaptability", "As One"],
-        "pokemon_moves": {
+        "pokemon_move": {
             "move_id": 192,
             "move_name": "pretium",
             "move_accuracy": 14,
@@ -111,7 +111,7 @@
         "pokemon_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
         "pokemon_type": "Dark",
         "pokemon_abilities": ["Big Pecks", "Drizzle", "Damp", "Competitive"],
-        "pokemon_moves": {
+        "pokemon_move": {
             "move_id": 167,
             "move_name": "nisi",
             "move_accuracy": 59,
@@ -128,7 +128,7 @@
         "pokemon_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
         "pokemon_type": "Electric",
         "pokemon_abilities": ["Damp"],
-        "pokemon_moves": {
+        "pokemon_move": {
             "move_id": 18,
             "move_name": "platea",
             "move_accuracy": 7,
@@ -145,7 +145,7 @@
         "pokemon_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
         "pokemon_type": "Normal",
         "pokemon_abilities": ["Defiant"],
-        "pokemon_moves": {
+        "pokemon_move": {
             "move_id": 18,
             "move_name": "platea",
             "move_accuracy": 7,
@@ -162,7 +162,7 @@
         "pokemon_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
         "pokemon_type": "Poison",
         "pokemon_abilities": ["Damp", "Drizzle"],
-        "pokemon_moves": {
+        "pokemon_move": {
             "move_id": 52,
             "move_name": "ultrices",
             "move_accuracy": 82,
